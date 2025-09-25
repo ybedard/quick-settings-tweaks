@@ -5,10 +5,6 @@
 ### Let's tweak Gnome Quick Settings!
 
 [<img src="https://raw.githubusercontent.com/andyholmes/gnome-shell-extensions-badge/master/get-it-on-ego.svg?sanitize=true" alt="Get it on GNOME Extensions" height="100" align="middle">](https://extensions.gnome.org/extension/5446/quick-settings-tweaker/)
-
-<a href="https://weblate.paring.moe/engage/gs-quick-settings-tweaks/">
-<img src="https://weblate.paring.moe/widgets/gs-quick-settings-tweaks/-/gs-extension/svg-badge.svg" alt="Translation status" />
-</a>
 <br>
 <br>
 Quick Settings Tweaker is a Gnome 46+ extension which allows you to customize the new Quick Settings Panel to your liking!
@@ -40,12 +36,6 @@ Here is my sponsors, thank for your support!
 [![Star History Chart](https://api.star-history.com/svg?repos=qwreey/quick-settings-tweaks&type=Date)](https://star-history.com/#qwreey/quick-settings-tweaks&Date)
 
 ## Development
-
-### Translations
-
-<img src="https://weblate.paring.moe/widgets/gs-quick-settings-tweaks/-/gs-extension/multi-auto.svg">
-
-You can help translate this extension by open a pull request, or using [weblate](http://weblate.paring.moe/engage/gs-quick-settings-tweaks/)
 
 ### Building
 
